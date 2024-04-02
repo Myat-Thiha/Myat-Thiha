@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Myat-Thiha
-- 👀 I’m interested in programming and mechanics.
+- 👀 I’m interested in programming, robotics and AI.
 - 🌱 I’m currently learning electrical engineering and computer science 
-- 💞️ I’m looking to collaborate on C++ programming.
+- 💞️ I’m looking to collaborate on C++, JAVA and Python programming.
 - 📫 How to reach me myatthihashanshan@gmail.com
 
 <!---
